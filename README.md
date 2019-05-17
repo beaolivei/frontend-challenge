@@ -27,7 +27,7 @@ The steps were:
 
 ### How to run it
 If you download the folder in your computer I would recommend running it in the local server. 
-I also deployed a version of it in the github pages. I used the npm run build for it. Please, check my github (@beaolivei) pages for the published version. 
+I also deployed a version of it in Netilifly. You can check it at frontendchallengebeaoliveira.netlify.com 
 
 
 
